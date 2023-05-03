@@ -10,7 +10,7 @@ A Markdown file written to give fast access to resources for new members of the 
 If you've never worked on a coding project before, I would recommend [you watch this video](https://www.youtube.com/watch?v=B8RSMBSzFuA) on how to make a commit (i.e, propose a change) to the file. 
 
 1. Clone the repository
-2. Edig the tetriscommunity.md file
+2. Edit the tetriscommunity.md file
 3. Make a commit and the administrators will talk it out with you
 
 ## Administrators
