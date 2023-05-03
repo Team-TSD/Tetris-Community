@@ -1,11 +1,10 @@
 # Tetris-Community
-##
-[TOC2]
-A Markdown file written to give fast access to resources to new members of the Modern Tetris Community
+A Markdown file written to give fast access to resources to new members of the Modern Tetris community
 
 ## Objectives
-1. To give a quick and easy, no-fuss overview of the community that is useful to existing community members as well as easily understanble for new or potential members.
-2. Have a consistent format in order to prevent bias and provide an accurate, curated representation of the community
+1. To give a quick and easy, no-fuss overview of the community that is easily understanble for new or potential members.
+2. Have a consistent format in order to prevent bias
+3. Provide a balanced mix of accuracy and brevity in the curation process to give a fair representation of the Modern Tetris community.
 
 ## How to Contribute
 If you've never worked on a coding project before, I would recommend [you watch this video](https://www.youtube.com/watch?v=B8RSMBSzFuA) on how to make a commit (i.e, propose a change) to the file. 
