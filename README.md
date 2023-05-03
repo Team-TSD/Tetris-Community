@@ -1,5 +1,5 @@
 # Tetris-Community
-A Markdown file written to give fast access to resources to new members of the Modern Tetris community
+A Markdown file written to give fast access to resources for new members of the Modern Tetris community
 
 ## Objectives
 1. To give a quick and easy, no-fuss overview of the community that is easily understanble for new or potential members.
