@@ -13,7 +13,7 @@
 ##### -> Tetris Effect: Connected Official Discord (Enhance) - https://discord.gg/enhance <-
 ##### -> TETR․IO Discord - https://discord.gg/tetrio <-
 ## -> 🥊 TOURNAMENTS 🥊 <-
-## -> Main hub for Event Organizing in the Tetris Community: Modern Tetris Organizing
+## -> Main hub for Event Organizing in the Tetris Community: Modern Tetris Organizing <-
 ### -> 1. I'm new, where do I start playing tournaments? <-
 ##### -> TETR․IO Amateur Weeklies (TAWS) - https://discord.gg/aHtFMvsABn <- 
 ##### -> Underdogs Cup (UC - Major for new people) - https://discord.gg/EnJTb8f <- 
