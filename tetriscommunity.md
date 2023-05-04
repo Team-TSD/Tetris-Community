@@ -1,6 +1,5 @@
 # "TETRIS" COMMUNITY
 
-
 -> Originally written by Jed (https://twitter.com/tsdjed). Contribute to this document on [Github](https://github.com/Degura/Tetris-Community).<-
 
 -> For questions regarding the community overall community, please ask in [Modern Tetris Organizing](https://discord.gg/sk8NxAJ7Ew). <-
