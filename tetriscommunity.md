@@ -12,6 +12,7 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
 * PuyoTet World (PTW - Puyo Puyo Tetris Community) - https://discord.gg/puyopuyotetris
 * Tetris Effect: Connected Official Discord (Enhance) - https://discord.gg/enhance
 * TETR․IO Discord - https://discord.gg/tetrio
+* Jstris Discord - https://discord.gg/RcNFCZC
 
 ## 🥊 GET INVOLVED 🥊
 
@@ -52,7 +53,7 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
 
  * Jstris (Minimal client, uncapped speed/no delay, **free**): https://discord.gg/RcNFCZC
 
-    * Jstris Plus (extending Jstris with matchmaking, customization, better practice modes and a *lot more*!): https://greasyfork.org/en/scripts/451607-jstris
+    * Jstris Plus (extending Jstris with matchmaking, customization, better practice modes and a *lot more*!): [Greasy Fork](https://greasyfork.org/en/scripts/451607-jstris) [Chrome Extension](https://chrome.google.com/webstore/detail/jstris%2B/phbmcindealpgopeoboadcjlgcjdanmb) [FireFox Extension](https://addons.mozilla.org/en-US/firefox/addon/jstris/)
 
 *  Nuketris (Minimal client, speed limited, **free**): https://discord.gg/NUSgpfT5eH
 
