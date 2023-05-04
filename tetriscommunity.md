@@ -1,34 +1,34 @@
 # **"TETRIS"** COMMUNITY
 
--> Originally written by Jed (https://twitter.com/tsdjed). Contribute to this document on [GitHub](https://github.com/Degura/Tetris-Community).<-
+Originally written by Jed (https://twitter.com/tsdjed). Contribute to this document on [GitHub](https://github.com/Degura/Tetris-Community).
 
--> For questions regarding the overall community, please ask in [Modern Tetris Organizing](https://discord.gg/sk8NxAJ7Ew). <-
+For questions regarding the overall community, please ask in [Modern Tetris Organizing](https://discord.gg/sk8NxAJ7Ew).
 
--> Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842 <-
+Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842
 
-## -> 🌊 JUST CHILLING, CHATTING, AND "TETRIS" GAMING 🌊 <-
+## 🌊 JUST CHILLING, CHATTING, AND "TETRIS" GAMING 🌊
 * Modern Mino Community (MMC) - https://discord.gg/nndXDXRQJh
 * Hard Drop (HD) - https://discord.gg/harddrop
 * PuyoTet World (PTW - Puyo Puyo Tetris Community) - https://discord.gg/puyopuyotetris
 * Tetris Effect: Connected Official Discord (Enhance) - https://discord.gg/enhance
 * TETR․IO Discord - https://discord.gg/tetrio
 
-## -> 🥊 GET INVOLVED 🥊 <-
+## 🥊 GET INVOLVED 🥊
 
-### -> Main hub for Event Organizing in the Tetris Community: Modern Tetris Organizing <-
+### Main hub for Event Organizing in the Tetris Community: [Modern Tetris Organizing](https://discord.gg/sk8NxAJ7Ew)
 
-#### -> 1. I'm new, where do I start playing tournaments? <-
+#### -> 1. I'm new, where do I start playing tournaments?
 * TETR․IO Amateur Weeklies (TAWS) - https://discord.gg/aHtFMvsABn 
 * Underdogs Cup (UC - Major for new people) - https://discord.gg/EnJTb8f
 
-#### -> 2. Where the good people play/Open tournaments for everybody: <-
+#### 2. Where the good people play/Open tournaments for everybody:
 * Hummingbird Nest (HN - Pro Weeklies and Major) - https://discord.gg/gHsPdCPjga
 * Modern Mino Community (MMC - Major - TETR․IO Journey, Sakura Blend, more) - https://discord.gg/nndXDXRQJh 
 * Puzzle Kingdom (PK - Major - TETR․IO Journey, Sakura Blend, more) - https://discord.gg/47AhNAs25M
 * Team TSD (Major - TETR․IO Cup, Jstris Cup) - https://discord.gg/XHywYgb
 
 
-## -> 🌸 LIVE EVENTS / TOURNAMENTS 🌸 <- 
+## 🌸 LIVE EVENTS / TOURNAMENTS 🌸 
 * WORLD PUZZLE LEAGUE (WPL - Yearly WPL Championship LAN in Columbus. August 11-13, 2023) - https://discord.gg/EdsedPxzGh
 * MODERN TETRIS SHOWDOWN (MTS - East Coast LAN event in Philadelphia. July 08, 2023) - https://discord.gg/dggyNXhYG3 
 *  XENO TETRIS (NY LAN events held ~monthly in NYC) - https://discord.gg/3rU3KKyuTW 
@@ -45,7 +45,7 @@
 * VIETNAMESE (Tetris Việt Nam): https://discord.gg/jX7BX9g
 
 
-## -> 🎮 GAME COMMUNITIES 🎮 <-
+## 🎮 GAME COMMUNITIES 🎮
  * Tetris Effect: Connected (Largest speed limited client in the game, cross-platform): https://discord.gg/enhance
 
  * TETR․IO (Largest client in the game, largest uncapped speed/no delay based client, **free**): https://discord.gg/tetrio
@@ -59,7 +59,7 @@
  * World Wide Combos (Minimal client, both speed limited and uncapped, **free**): https://discord.gg/wwc
 
 
-## -> 📺 WATCH TETRIS CONTENT CREATORS (YouTube, Twitch) 📺 <-
+## 📺 WATCH TETRIS CONTENT CREATORS (YouTube, Twitch) 📺
 ### NOTABLE/POPULAR TETRIS STREAMERS
 
 * **Amemiya** (World No. 5 for Slow Tetris players. Largest Content Creator in the world for Tetris. All in Japanese): https://youtube.com/@inazuma0217tai1
@@ -80,7 +80,7 @@
 
 * **Wumbo** (Largest American Tetris YouTuber): https://twitch.tv/wumbotize
 
-### -> YOUTUBERS/CONTENT CREATORS <-
+### YOUTUBERS/CONTENT CREATORS
 
 * **Amemiya (あめみやたいよう)**: (Top Slow Tetris player. Largest Content Creator in the world for Tetris. All in Japanese): https://youtube.com/@inazuma0217tai1
 
@@ -109,13 +109,17 @@
 * **Wumbo** (Largest American Tetris YouTuber): https://youtube.com/@Wumbotize
 
 
-## -> ✏️ LEARN TO PLAY THE GAME ✏️ <-
+## ✏️ LEARN TO PLAY THE GAME ✏️
 
 * **FOUR.LOL** (modern and concise documentation on basic and advancted techniques): https://four.lol/
 
 * **Hard Drop Wiki** (contains even more information): https://harddrop.com/wiki/Tetris_Wiki
 
 * **Fourtris** (app for practicing locally with undo, draw, board screenshot input, and much more): https://github.com/fiorescarlatto/four-tris
+
+* **Tetris Downstack Puzzle - Challenge** (contains practice scenarios for varius downstack situations): https://himitsuconfidential.github.io/downstack-practice/
+
+* **Tetris T-Spin Puzzle - Challenge** (contains practice scenearios for creating T-Spin and Tetrises, similar to twowi.de puzzle rush): https://himitsuconfidential.github.io/downstack-practice/tspin-challenge.html
 
 * **Fumen tools** (online and a bit more simple 'animation' tool to draw and practice) - https://harddrop.com/fumen/
 
