@@ -25,8 +25,8 @@ The rentry releases of the Markdown file include centering arrows (-> <-) that a
 ## Administrators
 The administrators are the people with the current passcode to the Rentry page. Administrators ultimately update the Rentry page. 
 Current Admins: 
-1. Jed (Github: Degura) (Added 20230503) (Main Admin)
-2. Freyhoe (Github: freyhoe) (Added 20230504)
+1. Jed (Github: Degura) (Added 2023/05/03) (Main Admin)
+2. Freyhoe (Github: freyhoe) (Added 2023/05/04)
 
 ### Apply to become an Administrator
 People with a notable reputation in the community or with a streak of good contributions to the project can apply to become an administrator. Send your community member name (Discord, Github, other pertinent sites) and a brief (100 word max) explanation as to why you should be an administrator. 
