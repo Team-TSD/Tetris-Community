@@ -34,7 +34,7 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
 *  XENO TETRIS (NY LAN events held ~monthly in NYC) - https://discord.gg/3rU3KKyuTW 
 
 
-## -> 🈺 LANGUAGE SPECIFIC COMMUNITIES 🈺 <-
+## 🈺 LANGUAGE SPECIFIC COMMUNITIES 🈺
 * SPANISH (Tetris Moderno Latinoamérica / TML / a portal for local communities in Latin America): https://discord.gg/j2bF8Kpj2V
 * PORTUGUESE (PuyoTetris Brasil): https://discord.gg/kz3MgWQe76
 * KOREAN (TETRISER): https://discord.gg/6sK7h4TsEf
