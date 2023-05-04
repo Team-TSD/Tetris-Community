@@ -19,6 +19,9 @@ If you've never worked on a coding project before, I would recommend [you watch 
 2. Edit the tetriscommunity.md file
 3. Make a commit and the administrators will talk it out with you
 
+## Note on Rentry: 
+The rentry releases of the Markdown file include centering arrows (-> <-) that are not included in the markdown file in the repository. This for centering titles, and is applied by the admins of the Rentry page. Do not add arrows when making commits.
+
 ## Administrators
 The administrators are the people with the current passcode to the Rentry page. Administrators ultimately update the Rentry page. 
 Current Admins: 
