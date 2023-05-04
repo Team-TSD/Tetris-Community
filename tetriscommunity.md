@@ -2,7 +2,7 @@
 
 -> Originally written by Jed (https://twitter.com/tsdjed). Contribute to this document on [Github](https://github.com/Degura/Tetris-Community).<-
 
--> For questions regarding the community overall community, please ask in [Modern Tetris Organizing](https://discord.gg/sk8NxAJ7Ew). <-
+-> For questions regarding the overall community, please ask in [Modern Tetris Organizing](https://discord.gg/sk8NxAJ7Ew). <-
 
 -> Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842 <-
 
@@ -26,6 +26,7 @@
 ## -> 🌸 LIVE EVENTS 🌸 <- 
 #### -> WORLD PUZZLE LEAGUE (WPL - WPL Championship LAN in Columbus, August 11-13) - https://discord.gg/EdsedPxzGh <-
 #### -> MODERN TETRIS SHOWDOWN (MTS - East Coast LAN event in Philadelphia, July 08) - https://discord.gg/dggyNXhYG3 <-
+#### -> XENO TETRIS (NY LAN events held ~monthly in NYC) - https://discord.gg/3rU3KKyuTW <-
 
 ## -> 🈺 LANGUAGE SPECIFIC COMMUNITIES 🈺 <-
 ##### SPANISH - Tetris Moderno Latinoamérica (TML - Includes portal for local communities in LATAM such as Argentina, Chile, Mexico, etc.) - https://discord.gg/j2bF8Kpj2V
@@ -35,6 +36,7 @@
 ##### JAPANESE - Tetrio同好会 (Tetrio_jp) - https://discord.gg/NVkv9FasT4
 ##### FRENCH - Carré Tetris - https://discord.gg/kp5vRyV
 ##### THAI - Tetris Thailand - https://discord.gg/GKTucJ5RtK
+##### VIETNAMESE - Tetris Việt Nam - https://discord.gg/jX7BX9g
 
 ## -> 🎮 GAME COMMUNITIES 🎮 <-
 ##### -> Tetris Effect: Connected (Largest slow-based client in the game, cross-platform) - https://discord.gg/enhance <-
@@ -70,6 +72,8 @@
 **Amemiya (あめみやたいよう)**: (Top Slow Tetris player. Largest Content Creator in the world for Tetris. All in Japanese): https://youtube.com/@inazuma0217tai1
 
 **25Pi25** (English content and guides): https://youtube.com/@25pi25
+
+**AddTagHere** (English content, guides, and history. PPT focused): https://www.youtube.com/@AddTagHere
 
 **Doremy** (No.1 European Tetris Player, Largest Western Modern Tetris YouTuber): https://youtube.com/@Doremy
 
