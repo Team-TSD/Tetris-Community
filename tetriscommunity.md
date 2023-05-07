@@ -112,7 +112,7 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
 
 ## ✏️ LEARN TO PLAY THE GAME ✏️
 
-* **FOUR.LOL** (modern and concise documentation on basic and advancted techniques): https://four.lol/
+* **FOUR.LOL** (modern and concise documentation on basic and advanced techniques): https://four.lol/
 
 * **Hard Drop Wiki** (contains even more information): https://harddrop.com/wiki/Tetris_Wiki
 
@@ -122,12 +122,35 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
 
 * **Tetris T-Spin Puzzle - Challenge** (contains practice scenearios for creating T-Spin and Tetrises, similar to twowi.de puzzle rush): https://himitsuconfidential.github.io/downstack-practice/tspin-challenge.html
 
-* **Fumen tools** (online and a bit more simple 'animation' tool to draw and practice) - https://harddrop.com/fumen/
+* **Fumen Tools** (online and a bit more simple 'animation' tool to draw and practice) - https://harddrop.com/fumen/
 
 * **Ztrix** (Similar to the above tools, has specific things for Tetris Effect practice) - https://ztrix-game.web.app/
 
-* **Blockfish** (it knows how to downstack and might teach you a thing or two) - https://autofish.tali.software/
-  
+* **Tetresse** (client to practice finesse): https://tetresse.harddrop.com/
+
+* **Blockfish** (it knows how to downstack and might teach you a thing or two)
+  * watch infinite cheese race - https://autofish.tali.software/
+  * client (blockfish cheese coach) - https://github.com/blockfish/blockfish/releases
+  * run repository - https://jstris.jezevec10.com/u/blockfish
+  * blockfish jstris and fumen analyzer bots found in - https://discord.gg/ePwmKjK46x
+
+* **PC Tools**
+  * PC finder - https://harddrop.com/forums/index.php?showtopic=7588
+  * Wirelyre web PC finder and api - https://wirelyre.github.io/tetra-tools/pc-solver.html
+
+* **Jstris Usermodes**
+  * send 120 attack while surviving apm - https://jstris.jezevec10.com/?play=9&mode=2145
+  * tetris only stacking practice - https://jstris.jezevec10.com/?play=9&mode=1699
+  * 60 apm and 120 apm survival - https://jstris.jezevec10.com/?play=9&mode=163, https://jstris.jezevec10.com/?play=9&mode=165
+
+* **Jstris Plus**
+  * replay fumen translator in-game and with api https://fumen.tstman.net/
+  * PCmode replay PC-finder with wirelyre's pc finder
+  * replay timestamp to game feature with snapshots
+  * practice mode fumen export and import
+
+* **4-Wide Trainer** https://ddrkirby.com/games/4-wide-trainer/4-wide-trainer.html
+
 #
 
 [Go back to the top](#top)
