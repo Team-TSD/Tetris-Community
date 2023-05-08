@@ -18,7 +18,7 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
 
 ### Main hub for Event Organizing in the Tetris Community: [Modern Tetris Organizing](https://discord.gg/sk8NxAJ7Ew)
 
-#### -> 1. I'm new, where do I start playing tournaments?
+#### 1. I'm new, where do I start playing tournaments?
 * TETR․IO Amateur Weeklies (TAWS) - https://discord.gg/aHtFMvsABn 
 * Underdogs Cup (UC - Major for new people) - https://discord.gg/EnJTb8f
 
