@@ -150,7 +150,3 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
   * practice mode fumen export and import
 
 * **4-Wide Trainer** https://ddrkirby.com/games/4-wide-trainer/4-wide-trainer.html
-
-#
-
-[Go back to the top](#top)
