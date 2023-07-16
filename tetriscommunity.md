@@ -91,8 +91,6 @@ Calling this game "Tetris" and its consequences: https://blog.osk.sh/post.php?p=
 
 * **ICLY (Diao)** (World No. 2 Fast Tetris Player): https://youtube.com/@Diaoo
 
-* **Fesh (Smolfeesh)** (World No.1 Ultra player. English content, guides): https://youtube.com/@fesh
-
 * **Garbo** (Founder of four.wide, English content and guides. Retired from Tetris): https://www.youtube.com/@GarboTetris
 
 * **Jhinta** (Founder of Tetris Peru, Largest Spanish Tetris YouTuber): https://www.youtube.com/@JhintaTetris
